@@ -1,7 +1,7 @@
 
 var gamePattern = [];
 var userClickedPattern=[];
-const buttonColours = ["black","blue","green","yellow"];
+const buttonColours = ["red","blue","green","yellow"];
 var started = false;
 var level=0;
 

@@ -1,7 +1,7 @@
 body {
   text-align: center;
   margin: 0;
-  background-color: #011f3f;
+  background-color: #011F3F;
 }
 h3{
   font-family: cursive;
@@ -15,7 +15,7 @@ p{
   color: #F6C6EA;
 }
 hr{
-  background-color: #011f3f;
+  background-color: #011F3F;
   border-style: dotted none none;
   width: 3%;
   border-color: #F9F9F9;

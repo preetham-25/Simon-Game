@@ -1,7 +1,7 @@
 body {
   text-align: center;
   margin: 0;
-  background-color: #B2BEB5;
+  background-color: #011f3f;
 }
 h3{
   font-family: cursive;
@@ -15,7 +15,7 @@ p{
   color: #F6C6EA;
 }
 hr{
-  background-color: #B2BEB5;
+  background-color: #011f3f;
   border-style: dotted none none;
   width: 3%;
   border-color: #F9F9F9;
@@ -62,8 +62,8 @@ hr{
   opacity: 0.8;
 }
 
-.black {
-  background-color: black;
+.red {
+  background-color: red;
 }
 
 .green {
